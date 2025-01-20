@@ -1,6 +1,6 @@
 The code  is a straightforward implementation of a Linear Regression model using scikit-learn. Here's a breakdown of what is happening and how to interpret the results:
 
-Libraries and Data Import:
+Libraries and Data Import:-
 
 matplotlib.pyplot: Not used here but typically for visualization.
 LinearRegression, train_test_split: Used for building and evaluating the regression model.
